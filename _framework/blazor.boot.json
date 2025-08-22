@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ToolboxUI.Browser",
   "resources": {
-    "hash": "sha256-N2zuKIyD5GT8yuFx+rMeoJucpAa5OLdBHbhWfzfHgBQ=",
+    "hash": "sha256-5175yyfDxdCbbrHsJYq+V924ZU96XXUeImIzobdRdtc=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-W6wvSXxL9ZsUUpzdvKP57u11TU2PQdoIoM3qyJpvmcs="
     },
@@ -35,7 +35,7 @@
       "FluentAvalonia.wasm": "sha256-aJ8LCH/P+Rx/2ophwwNGVGBBamJQf2x6lf+0mwtgyQs=",
       "HarfBuzzSharp.wasm": "sha256-QN/kGskrXhiicblvTr92mg1Fg69OPQWTXWcXVSBSQfo=",
       "ICSharpCode.SharpZipLib.wasm": "sha256-+vyX8Hj0nDz8BN9Ddfjjq+5vQkN7DpdaYdrkEvFEI9o=",
-      "IIDXToolbox.Readers.wasm": "sha256-OY6AymeQ/Rmy6Cfps7dtLJGYsVqn3BauRL6oZMnd1ck=",
+      "IIDXToolbox.Readers.wasm": "sha256-9PBLX2fYDUqm31VBRit31kJ07O4Ky0aDBwtsvCc3uak=",
       "MicroCom.Runtime.wasm": "sha256-luK3+DgxuOrCwY6By8YW8TK3gvMOtxwn8zPK3YBufH4=",
       "Microsoft.IO.RecyclableMemoryStream.wasm": "sha256-woqRD68gSHOi9e437tKTbCbYmB/ESf9IQdcPqyrOxxA=",
       "ReactiveUI.wasm": "sha256-l44FEPAiQZDLViDkvuUL57zXdhgC+TiNlMcpa78KqgA=",
@@ -65,8 +65,8 @@
       "System.Text.Json.wasm": "sha256-zrNvUb6FjHxRJ5vMT0nZkPBnPQVXlvY/2dMbPFoO3hg=",
       "System.Text.RegularExpressions.wasm": "sha256-Phkc+xkbL86z+N+Qw2tYYo6/CvOJxUMLhmGDEDLdrNw=",
       "System.wasm": "sha256-/Ib2sECJIp5OmAw2FVP/3jA36Bh6yA6fac798DlmOd8=",
-      "ToolboxUI.Browser.wasm": "sha256-+BqBHaYahqofzW8GLIMk3YTrVSVUmArsnVhOcN1MH7s=",
-      "ToolboxUI.wasm": "sha256-u+6w26rr1QFXD1q3ov/3+d1x7ixVYyyLsM3734rTcMw="
+      "ToolboxUI.Browser.wasm": "sha256-4pXh4VKNP8hI213JxBbi3GDyC4FyEmi6sTJ6KhqlAq4=",
+      "ToolboxUI.wasm": "sha256-iJQz6VzmIwUnSclWhGMDM5ME7a0nDEKLzl3oX/XRhgI="
     }
   },
   "cacheBootResources": true,
